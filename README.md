@@ -1,4 +1,4 @@
-# Verilog_Masterclass_SPI
+# Verilog Masterclass SPI
 
 This project implements a simple **SPI (Serial Peripheral Interface) Master** in Verilog, along with a testbench to simulate its behavior using **ModelSim**.
 
