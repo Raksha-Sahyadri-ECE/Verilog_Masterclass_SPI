@@ -13,7 +13,7 @@ It uses the following main signals:
 - **MISO** – Master In Slave Out (not used here)
 
 This project includes
-- An **8-bit SPI master** that sends data serially over `spi_data`
+- An **8-bit SPI master** 
 - A clock divider to generate a slower SPI clock from a 100 MHz system clock
 - A testbench to simulate and verify the SPI output behavior
 
