@@ -19,21 +19,8 @@ This project includes
 
 ---
 
-## Files
-
-| File        | Description                        |
-|-------------|------------------------------------|
-| `spi.v`     | SPI master (8-bit) implementation  |
-| `spi_tb.v`  | Testbench to simulate SPI master   |
-| `spi_run.do`| Script to compile and run in ModelSim |
-
----
-
 ## How to Simulate
 
 1. Open ModelSim and create a new project
 2. Add `spi.v`, `spi_tb.v`, and `spi_run.do` to the project
-3. In the **Transcript** window, run:
-
-```tcl
-do spi_run.do
+3. In the **Transcript** window, run.
